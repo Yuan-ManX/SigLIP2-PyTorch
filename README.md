@@ -1,2 +1,6 @@
-# SigLIP2-PyTorch
+# SigLIP 2 PyTorch
+
 PyTorch implementation of SigLIP2.
+
+[SigLIP 2](https://arxiv.org/abs/2502.14786): Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features.
+
